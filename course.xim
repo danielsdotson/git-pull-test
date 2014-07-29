@@ -1,13 +1,13 @@
 name: Calculus Practice Activities
 description: Extra practice for calculus
 unit1
-  unit1/basics
-  unit1/final
+  unit1/A
+  unit1/B
 unit2
   unit2/basics
-    unit2/basics/subbasic1
-    unit2/basics/subbasic2
-    unit2/basics/subbasic3
-  unit2/final
+    unit2/basics/E
+    unit2/basics/F
+    unit2/basics/G
+  unit2/Review
 unit3
 unit4
