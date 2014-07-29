@@ -1,8 +1,5 @@
----
-name: Calculus Tutorials
-description: Calculus practice activities.
----
-
+name: Calculus Practice Activities
+description: Extra practice
 unit1
   unit1/basics
   unit1/final
